@@ -1,0 +1,32 @@
+body{
+    font-family: 'League Gothic', sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size:  50px;
+}
+.wow{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.wow1{
+    width: 50%;
+    padding-left: 5%;
+}
+.wow1 img{
+    width: 80%;
+}
+.contact{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color:black;
+    font-weight: 700;
+    padding: 10px;
+    border-radius: 10px;
+}
+.section1{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
